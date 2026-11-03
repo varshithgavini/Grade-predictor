@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 (test),R2 (5-fold CV)
+Linear Regression,1.4,2.15,0.775,0.815
+Decision Tree,1.23,2.26,0.751,0.823
+Random Forest,1.07,1.77,0.847,0.877
